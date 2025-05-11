@@ -71,3 +71,14 @@ Use case diagrams show how different users (actors) interact with the system to 
 
 **Use case diagram**  
 ![ALX use case diagram.](/alx-booking-uc.png)
+
+## Acceptance Criteria.  
+Acceptance Criteria are predefined conditions that a software product must meet to be accepted by stakeholders. They ensure that the final product aligns with business goals and user needs.  
+
+**Importance of Acceptance Criteria**  
+   * Sets clear expectations for functionality.
+   * Defines success metrics for development and testing.
+   * Prevents scope creep.
+
+**Example**  
+> For the checkout feature, users should be able to make a booking through multiple secure payment methods.
