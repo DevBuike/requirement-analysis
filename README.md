@@ -70,4 +70,4 @@ Use case diagrams show how different users (actors) interact with the system to 
    * Facilitate communication among stakeholders and development team.
 
 **Use case diagram**  
-![ALX use case diagram.](/assets/images/alx-booking-uc.png)
+![ALX use case diagram.](/alx-booking-uc.png)
